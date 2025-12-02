@@ -1,0 +1,15 @@
+admin
+backup
+test
+dev
+api
+uploads
+config
+portal
+assets
+temp
+.git
+.svn
+robots.txt
+sitemap.xml
+phpinfo.php
